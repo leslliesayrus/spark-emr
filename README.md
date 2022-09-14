@@ -1,3 +1,5 @@
-# spark_postgre_jdbc
+# Spark in the EMR
+I used AWS to make an ETL job with Spark using the EMR cluster.
 
-The simple connection example Spark and Postgre with JDBC connection
+![alt text](https://github.com/leslliesayrus/spark-emr/blob/main/aws_archichture.png)
+
