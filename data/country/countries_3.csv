@@ -1,0 +1,134 @@
+CCA3,Country,Capital,Continent
+JAM,Jamaica,Kingston,North America
+JPN,Japan,Tokyo,Asia
+JEY,Jersey,Saint Helier,Europe
+JOR,Jordan,Amman,Asia
+KAZ,Kazakhstan,Nursultan,Asia
+KEN,Kenya,Nairobi,Africa
+KIR,Kiribati,Tarawa,Oceania
+KWT,Kuwait,Kuwait City,Asia
+KGZ,Kyrgyzstan,Bishkek,Asia
+LAO,Laos,Vientiane,Asia
+LVA,Latvia,Riga,Europe
+LBN,Lebanon,Beirut,Asia
+LSO,Lesotho,Maseru,Africa
+LBR,Liberia,Monrovia,Africa
+LBY,Libya,Tripoli,Africa
+LIE,Liechtenstein,Vaduz,Europe
+LTU,Lithuania,Vilnius,Europe
+LUX,Luxembourg,Luxembourg,Europe
+MAC,Macau,Concelho de Macau,Asia
+MDG,Madagascar,Antananarivo,Africa
+MWI,Malawi,Lilongwe,Africa
+MYS,Malaysia,Kuala Lumpur,Asia
+MDV,Maldives,Malé,Asia
+MLI,Mali,Bamako,Africa
+MLT,Malta,Valletta,Europe
+MHL,Marshall Islands,Majuro,Oceania
+MTQ,Martinique,Fort-de-France,North America
+MRT,Mauritania,Nouakchott,Africa
+MUS,Mauritius,Port Louis,Africa
+MYT,Mayotte,Mamoudzou,Africa
+MEX,Mexico,Mexico City,North America
+FSM,Micronesia,Palikir,Oceania
+MDA,Moldova,Chisinau,Europe
+MCO,Monaco,Monaco,Europe
+MNG,Mongolia,Ulaanbaatar,Asia
+MNE,Montenegro,Podgorica,Europe
+MSR,Montserrat,Brades,North America
+MAR,Morocco,Rabat,Africa
+MOZ,Mozambique,Maputo,Africa
+MMR,Myanmar,Nay Pyi Taw,Asia
+NAM,Namibia,Windhoek,Africa
+NRU,Nauru,Yaren,Oceania
+NPL,Nepal,Kathmandu,Asia
+NLD,Netherlands,Amsterdam,Europe
+NCL,New Caledonia,Nouméa,Oceania
+NZL,New Zealand,Wellington,Oceania
+NIC,Nicaragua,Managua,North America
+NER,Niger,Niamey,Africa
+NGA,Nigeria,Abuja,Africa
+NIU,Niue,Alofi,Oceania
+PRK,North Korea,Pyongyang,Asia
+MKD,North Macedonia,Skopje,Europe
+NFK,Northern Mariana Islands,Saipan,Oceania
+NOR,Norway,Oslo,Europe
+OMN,Oman,Muscat,Asia
+PAK,Pakistan,Islamabad,Asia
+PLW,Palau,Ngerulmud,Oceania
+PSE,Palestine,Ramallah,Asia
+PAN,Panama,Panama City,North America
+PNG,Papua New Guinea,Port Moresby,Oceania
+PRY,Paraguay,Asunción,South America
+PER,Peru,Lima,South America
+PHL,Philippines,Manila,Asia
+POL,Poland,Warsaw,Europe
+PRT,Portugal,Lisbon,Europe
+PRI,Puerto Rico,San Juan,North America
+QAT,Qatar,Doha,Asia
+COG,Republic of the Congo,Brazzaville,Africa
+REU,Reunion,Saint-Denis,Africa
+ROU,Romania,Bucharest,Europe
+RUS,Russia,Moscow,Europe
+RWA,Rwanda,Kigali,Africa
+BLM,Saint Barthelemy,Gustavia,North America
+KNA,Saint Kitts and Nevis,Basseterre,North America
+LCA,Saint Lucia,Castries,North America
+MAF,Saint Martin,Marigot,North America
+SPM,Saint Pierre and Miquelon,Saint-Pierre,North America
+VCT,Saint Vincent and the Grenadines,Kingstown,North America
+WSM,Samoa,Apia,Oceania
+SMR,San Marino,San Marino,Europe
+STP,Sao Tome and Principe,São Tomé,Africa
+SAU,Saudi Arabia,Riyadh,Asia
+SEN,Senegal,Dakar,Africa
+SRB,Serbia,Belgrade,Europe
+SYC,Seychelles,Victoria,Africa
+SLE,Sierra Leone,Freetown,Africa
+SGP,Singapore,Singapore,Asia
+SXM,Sint Maarten,Philipsburg,North America
+SVK,Slovakia,Bratislava,Europe
+SVN,Slovenia,Ljubljana,Europe
+SLB,Solomon Islands,Honiara,Oceania
+SOM,Somalia,Mogadishu,Africa
+ZAF,South Africa,Pretoria,Africa
+KOR,South Korea,Seoul,Asia
+SSD,South Sudan,Juba,Africa
+ESP,Spain,Madrid,Europe
+LKA,Sri Lanka,Colombo,Asia
+SDN,Sudan,Khartoum,Africa
+SUR,Suriname,Paramaribo,South America
+SWE,Sweden,Stockholm,Europe
+CHE,Switzerland,Bern,Europe
+SYR,Syria,Damascus,Asia
+TWN,Taiwan,Taipei,Asia
+TJK,Tajikistan,Dushanbe,Asia
+TZA,Tanzania,Dodoma,Africa
+THA,Thailand,Bangkok,Asia
+TLS,Timor-Leste,Dili,Asia
+TGO,Togo,Lomé,Africa
+TKL,Tokelau,Nukunonu,Oceania
+TON,Tonga,Nuku‘alofa,Oceania
+TTO,Trinidad and Tobago,Port-of-Spain,North America
+TUN,Tunisia,Tunis,Africa
+TUR,Turkey,Ankara,Asia
+TKM,Turkmenistan,Ashgabat,Asia
+TCA,Turks and Caicos Islands,Cockburn Town,North America
+TUV,Tuvalu,Funafuti,Oceania
+UGA,Uganda,Kampala,Africa
+UKR,Ukraine,Kiev,Europe
+ARE,United Arab Emirates,Abu Dhabi,Asia
+GBR,United Kingdom,London,Europe
+USA,United States,"Washington, D.C.",North America
+VIR,United States Virgin Islands,Charlotte Amalie,North America
+URY,Uruguay,Montevideo,South America
+UZB,Uzbekistan,Tashkent,Asia
+VUT,Vanuatu,Port-Vila,Oceania
+VAT,Vatican City,Vatican City,Europe
+VEN,Venezuela,Caracas,South America
+VNM,Vietnam,Hanoi,Asia
+WLF,Wallis and Futuna,Mata-Utu,Oceania
+ESH,Western Sahara,El Aaiún,Africa
+YEM,Yemen,Sanaa,Asia
+ZMB,Zambia,Lusaka,Africa
+ZWE,Zimbabwe,Harare,Africa
